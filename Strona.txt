@@ -1,0 +1,15 @@
+strona:
+- wykrztałcenie
+- kursy
+- doświadczenie zawodowe/projekty
+- umiejętności (jakie technologie znamy itp.)
+- zainteresowania
+- .css w jednym pliku
+- skrypty javascript
+- stronę wrzucić na serwer
+- katalog wizytowka
+
+
+Kryteria oceniania:
+- estetyka (czy nie jest przeładowane, ma być schludne, wielkość czcionki...)
+- web usability
